@@ -13,4 +13,19 @@ by the Detector Science group. The aim of this report giving a brief overview
 of calibration studies of Timepix4 which consists of testing chip under different
 conditions, developing visualization tools, and debugging control software.
 
-One may find details of the work in the FinalReport.pdf file.
+One may find details of the work by clikcking this link:
+https://github.com/ardaunal4/DESY-Timepix4/blob/main/FinalReport.pdf
+
+Here I would like to share with one of my work that I created in this summer student project:
+
+Enterance of program:
+
+![alt text](https://github.com/ardaunal4/DESY-Timepix4/blob/main/Timepix4-Visualization-Gui/welcome.png)
+
+Event data manipulation:
+
+![alt text](https://github.com/ardaunal4/DESY-Timepix4/blob/main/Timepix4-Visualization-Gui/guiEvent.jpeg)
+
+Frame data manipulation:
+
+![alt text](https://github.com/ardaunal4/DESY-Timepix4/blob/main/Timepix4-Visualization-Gui/guiFrame.jpeg)
