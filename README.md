@@ -16,7 +16,7 @@ conditions, developing visualization tools, and debugging control software.
 One may find details of the work by clikcking this link:
 https://github.com/ardaunal4/DESY-Timepix4/blob/main/FinalReport.pdf
 
-Here I would like to share with one of my work that I created in this summer student project:
+Here I would like to share one of my work that I created in this summer student project:
 
 Enterance of program:
 
